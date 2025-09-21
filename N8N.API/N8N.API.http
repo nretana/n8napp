@@ -1,0 +1,6 @@
+@N8N.API_HostAddress = http://localhost:5102
+
+GET {{N8N.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
